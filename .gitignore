@@ -1,0 +1,264 @@
+# Project exclude paths
+/.gradle/
+/Contacts (Java)/task/build/
+/Contacts (Java)/task/out/
+/Contacts (Java)/task/out/production/classes/
+/Contacts (Java)/task/out/test/classes/
+/Topics/Abstract factory/Laptop factory/out/
+/Topics/Abstract factory/Laptop factory/out/production/classes/
+/Topics/Abstract factory/Phone factory/out/
+/Topics/Abstract factory/Phone factory/out/production/classes/
+/Topics/Abstract factory/Theory/out/
+/Topics/Abstract factory/Theory/out/production/classes/
+/Topics/Abstract factory/What does the pattern do/out/
+/Topics/Abstract factory/What does the pattern do/out/production/classes/
+/Topics/ArrayList/Creating list/out/
+/Topics/ArrayList/Creating list/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/ArrayList/The behavior of methods/out/
+/Topics/ArrayList/The behavior of methods/out/production/classes/
+/Topics/ArrayList/Theory/out/
+/Topics/ArrayList/Theory/out/production/classes/
+/Topics/ArrayList/What ArrayList can store/out/
+/Topics/ArrayList/What ArrayList can store/out/production/classes/
+/Topics/Builder/Builder/out/
+/Topics/Builder/Builder/out/production/classes/
+/Topics/Builder/Builder (1)/out/
+/Topics/Builder/Builder (1)/out/production/classes/
+/Topics/Builder/Describe the builder/out/
+/Topics/Builder/Describe the builder/out/production/classes/
+/Topics/Builder/Disadvantage of Builder pattern/out/
+/Topics/Builder/Disadvantage of Builder pattern/out/production/classes/
+/Topics/Builder/Geek Builder/out/
+/Topics/Builder/Geek Builder/out/production/classes/
+/Topics/Builder/Subway Sandwich/out/
+/Topics/Builder/Subway Sandwich/out/production/classes/
+/Topics/Builder/Theory/out/
+/Topics/Builder/Theory/out/production/classes/
+/Topics/Command/Real-World examples/out/
+/Topics/Command/Real-World examples/out/production/classes/
+/Topics/Command/Remote Controller/out/
+/Topics/Command/Remote Controller/out/production/classes/
+/Topics/Command/Stock Broker/out/
+/Topics/Command/Stock Broker/out/production/classes/
+/Topics/Command/Theory/out/
+/Topics/Command/Theory/out/production/classes/
+/Topics/Enumset/Basic job requirements/out/
+/Topics/Enumset/Basic job requirements/out/production/classes/
+/Topics/Enumset/EnumSet/out/
+/Topics/Enumset/EnumSet/out/production/classes/
+/Topics/Enumset/Error/out/
+/Topics/Enumset/Error/out/production/classes/
+/Topics/Enumset/Theory/out/
+/Topics/Enumset/Theory/out/production/classes/
+/Topics/Enumset/Vaccination/out/
+/Topics/Enumset/Vaccination/out/production/classes/
+/Topics/Hierarchy of exceptions/BadRequestException/out/
+/Topics/Hierarchy of exceptions/BadRequestException/out/production/classes/
+/Topics/Hierarchy of exceptions/Base class/out/
+/Topics/Hierarchy of exceptions/Base class/out/production/classes/
+/Topics/Hierarchy of exceptions/Theory/out/
+/Topics/Hierarchy of exceptions/Theory/out/production/classes/
+/Topics/Hierarchy of exceptions/Unchecked exceptions/out/
+/Topics/Hierarchy of exceptions/Unchecked exceptions/out/production/classes/
+/Topics/Hierarchy of exceptions/UncheckedException/out/
+/Topics/Hierarchy of exceptions/UncheckedException/out/production/classes/
+/Topics/Instance methods/Car/out/
+/Topics/Instance methods/Car/out/production/classes/
+/Topics/Instance methods/Circle/out/
+/Topics/Instance methods/Circle/out/production/classes/
+/Topics/Instance methods/Complex numbers/out/
+/Topics/Instance methods/Complex numbers/out/production/classes/
+/Topics/Instance methods/Counter/out/
+/Topics/Instance methods/Counter/out/production/classes/
+/Topics/Instance methods/In a box/out/
+/Topics/Instance methods/In a box/out/production/classes/
+/Topics/Instance methods/Instance method and its class/out/
+/Topics/Instance methods/Instance method and its class/out/production/classes/
+/Topics/Instance methods/Invoke instance method/out/
+/Topics/Instance methods/Invoke instance method/out/production/classes/
+/Topics/Instance methods/Simulating a clock/out/
+/Topics/Instance methods/Simulating a clock/out/production/classes/
+/Topics/Instance methods/The Robot class/out/
+/Topics/Instance methods/The Robot class/out/production/classes/
+/Topics/Instance methods/Theory/out/
+/Topics/Instance methods/Theory/out/production/classes/
+/Topics/LocalDate/2 weeks after/out/
+/Topics/LocalDate/2 weeks after/out/production/classes/
+/Topics/LocalDate/10 days before/out/
+/Topics/LocalDate/10 days before/out/production/classes/
+/Topics/LocalDate/Convert numbers to days/out/
+/Topics/LocalDate/Convert numbers to days/out/production/classes/
+/Topics/LocalDate/Methods of LocalDate/out/
+/Topics/LocalDate/Methods of LocalDate/out/production/classes/
+/Topics/LocalDate/Similar date/out/
+/Topics/LocalDate/Similar date/out/production/classes/
+/Topics/LocalDate/The last day of a month/out/
+/Topics/LocalDate/The last day of a month/out/production/classes/
+/Topics/LocalDate/Theory/out/
+/Topics/LocalDate/Theory/out/production/classes/
+/Topics/LocalDate/Working with dates/out/
+/Topics/LocalDate/Working with dates/out/production/classes/
+/Topics/LocalDateTime/Add days and subtract hours/out/
+/Topics/LocalDateTime/Add days and subtract hours/out/production/classes/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/production/classes/
+/Topics/LocalDateTime/Merging date-time instances/out/
+/Topics/LocalDateTime/Merging date-time instances/out/production/classes/
+/Topics/LocalDateTime/Same date and time/out/
+/Topics/LocalDateTime/Same date and time/out/production/classes/
+/Topics/LocalDateTime/Subtracting hours and adding minutes/out/
+/Topics/LocalDateTime/Subtracting hours and adding minutes/out/production/classes/
+/Topics/LocalDateTime/Theory/out/
+/Topics/LocalDateTime/Theory/out/production/classes/
+/Topics/LocalTime/LocalTime constants/out/
+/Topics/LocalTime/LocalTime constants/out/production/classes/
+/Topics/LocalTime/Millisecond precision/out/
+/Topics/LocalTime/Millisecond precision/out/production/classes/
+/Topics/LocalTime/Representing the same time/out/
+/Topics/LocalTime/Representing the same time/out/production/classes/
+/Topics/LocalTime/Same time/out/
+/Topics/LocalTime/Same time/out/production/classes/
+/Topics/LocalTime/Seconds between two time points/out/
+/Topics/LocalTime/Seconds between two time points/out/production/classes/
+/Topics/LocalTime/Seconds since start of a day/out/
+/Topics/LocalTime/Seconds since start of a day/out/production/classes/
+/Topics/LocalTime/Some hours and minutes ago/out/
+/Topics/LocalTime/Some hours and minutes ago/out/production/classes/
+/Topics/LocalTime/Theory/out/
+/Topics/LocalTime/Theory/out/production/classes/
+/Topics/LocalTime/Working with time/out/
+/Topics/LocalTime/Working with time/out/production/classes/
+/Topics/Match results/Check the essay/out/
+/Topics/Match results/Check the essay/out/production/classes/
+/Topics/Match results/Extracting big numbers from a text/out/
+/Topics/Match results/Extracting big numbers from a text/out/production/classes/
+/Topics/Match results/Extracting words from a text/out/
+/Topics/Match results/Extracting words from a text/out/production/classes/
+/Topics/Match results/Find all passwords/out/
+/Topics/Match results/Find all passwords/out/production/classes/
+/Topics/Match results/How many times it returns true/out/
+/Topics/Match results/How many times it returns true/out/production/classes/
+/Topics/Match results/Theory/out/
+/Topics/Match results/Theory/out/production/classes/
+/Topics/Match results/What do we get/out/
+/Topics/Match results/What do we get/out/production/classes/
+/Topics/Match results/Wrong move/out/
+/Topics/Match results/Wrong move/out/production/classes/
+/Topics/Patterns and Matcher/E-mail address/out/
+/Topics/Patterns and Matcher/E-mail address/out/production/classes/
+/Topics/Patterns and Matcher/Find a word with a given length/out/
+/Topics/Patterns and Matcher/Find a word with a given length/out/production/classes/
+/Topics/Patterns and Matcher/In the middle of a word/out/
+/Topics/Patterns and Matcher/In the middle of a word/out/production/classes/
+/Topics/Patterns and Matcher/Invoking matches and find/out/
+/Topics/Patterns and Matcher/Invoking matches and find/out/production/classes/
+/Topics/Patterns and Matcher/Number parsing/out/
+/Topics/Patterns and Matcher/Number parsing/out/production/classes/
+/Topics/Patterns and Matcher/Start or end of a word/out/
+/Topics/Patterns and Matcher/Start or end of a word/out/production/classes/
+/Topics/Patterns and Matcher/Theory/out/
+/Topics/Patterns and Matcher/Theory/out/production/classes/
+/Topics/Patterns and Matcher/Why use Pattern and Matcher/out/
+/Topics/Patterns and Matcher/Why use Pattern and Matcher/out/production/classes/
+/Topics/Primitive and reference types/Code with nulls/out/
+/Topics/Primitive and reference types/Code with nulls/out/production/classes/
+/Topics/Primitive and reference types/Creating a primitive/out/
+/Topics/Primitive and reference types/Creating a primitive/out/production/classes/
+/Topics/Primitive and reference types/Creating a reference type/out/
+/Topics/Primitive and reference types/Creating a reference type/out/production/classes/
+/Topics/Primitive and reference types/Theory/out/
+/Topics/Primitive and reference types/Theory/out/production/classes/
+/Topics/Processing strings/Determine the output/out/
+/Topics/Processing strings/Determine the output/out/production/classes/
+/Topics/Processing strings/Determine the value/out/
+/Topics/Processing strings/Determine the value/out/production/classes/
+/Topics/Processing strings/Determine the value (1)/out/
+/Topics/Processing strings/Determine the value (1)/out/production/classes/
+/Topics/Processing strings/Find the first occurrence of the word  the/out/
+/Topics/Processing strings/Find the first occurrence of the word  the/out/production/classes/
+/Topics/Processing strings/Number of occurrences/out/
+/Topics/Processing strings/Number of occurrences/out/production/classes/
+/Topics/Processing strings/Palindrome/out/
+/Topics/Processing strings/Palindrome/out/production/classes/
+/Topics/Processing strings/Parse url/out/
+/Topics/Processing strings/Parse url/out/production/classes/
+/Topics/Processing strings/The longest word/out/
+/Topics/Processing strings/The longest word/out/production/classes/
+/Topics/Processing strings/Theory/out/
+/Topics/Processing strings/Theory/out/production/classes/
+/Topics/Regexes in programs/Card name validation and identification/out/
+/Topics/Regexes in programs/Card name validation and identification/out/production/classes/
+/Topics/Regexes in programs/Check IP address/out/
+/Topics/Regexes in programs/Check IP address/out/production/classes/
+/Topics/Regexes in programs/Check the clock time/out/
+/Topics/Regexes in programs/Check the clock time/out/production/classes/
+/Topics/Regexes in programs/Check the date/out/
+/Topics/Regexes in programs/Check the date/out/production/classes/
+/Topics/Regexes in programs/Ignoring spaces/out/
+/Topics/Regexes in programs/Ignoring spaces/out/production/classes/
+/Topics/Regexes in programs/Illegal identifiers/out/
+/Topics/Regexes in programs/Illegal identifiers/out/production/classes/
+/Topics/Regexes in programs/Safe password/out/
+/Topics/Regexes in programs/Safe password/out/production/classes/
+/Topics/Regexes in programs/Theory/out/
+/Topics/Regexes in programs/Theory/out/production/classes/
+/Topics/Regexes in programs/Vehicle registration number/out/
+/Topics/Regexes in programs/Vehicle registration number/out/production/classes/
+/Topics/Runtime type checking/File equality/out/
+/Topics/Runtime type checking/File equality/out/production/classes/
+/Topics/Runtime type checking/Find a statement that returns false/out/
+/Topics/Runtime type checking/Find a statement that returns false/out/production/classes/
+/Topics/Runtime type checking/Hierarchy of classes/out/
+/Topics/Runtime type checking/Hierarchy of classes/out/production/classes/
+/Topics/Runtime type checking/Pattern matching in practice/out/
+/Topics/Runtime type checking/Pattern matching in practice/out/production/classes/
+/Topics/Runtime type checking/Select statements/out/
+/Topics/Runtime type checking/Select statements/out/production/classes/
+/Topics/Runtime type checking/Theory/out/
+/Topics/Runtime type checking/Theory/out/production/classes/
+/Topics/Runtime type checking/Three classes and two objects/out/
+/Topics/Runtime type checking/Three classes and two objects/out/production/classes/
+/Topics/Runtime type checking/Who is who/out/
+/Topics/Runtime type checking/Who is who/out/production/classes/
+/Topics/Serialization basics/Container with transient fields/out/
+/Topics/Serialization basics/Container with transient fields/out/production/classes/
+/Topics/Serialization basics/Default serialization/out/
+/Topics/Serialization basics/Default serialization/out/production/classes/
+/Topics/Serialization basics/Methods of Serializable/out/
+/Topics/Serialization basics/Methods of Serializable/out/production/classes/
+/Topics/Serialization basics/Preventing a field from serialization/out/
+/Topics/Serialization basics/Preventing a field from serialization/out/production/classes/
+/Topics/Serialization basics/Serializable user/out/
+/Topics/Serialization basics/Serializable user/out/production/classes/
+/Topics/Serialization basics/Theory/out/
+/Topics/Serialization basics/Theory/out/production/classes/
+/Topics/Thread management/Calculate the number of distinct characters/out/
+/Topics/Thread management/Calculate the number of distinct characters/out/production/classes/
+/Topics/Thread management/Summing with threads/out/
+/Topics/Thread management/Summing with threads/out/production/classes/
+/Topics/Thread management/The order of lines/out/
+/Topics/Thread management/The order of lines/out/production/classes/
+/Topics/Thread management/Theory/out/
+/Topics/Thread management/Theory/out/production/classes/
+/Topics/Thread management/VeganPizza/out/
+/Topics/Thread management/VeganPizza/out/production/classes/
+/Topics/Thread management/Waiting for a thread/out/
+/Topics/Thread management/Waiting for a thread/out/production/classes/
+/Topics/Thread synchronization/Countdown counter/out/
+/Topics/Thread synchronization/Countdown counter/out/production/classes/
+/Topics/Thread synchronization/Method inside the synchronized block/out/
+/Topics/Thread synchronization/Method inside the synchronized block/out/production/classes/
+/Topics/Thread synchronization/Multithreaded counter/out/
+/Topics/Thread synchronization/Multithreaded counter/out/production/classes/
+/Topics/Thread synchronization/Theory/out/
+/Topics/Thread synchronization/Theory/out/production/classes/
+/Topics/Thread synchronization/Thread-safe account/out/
+/Topics/Thread synchronization/Thread-safe account/out/production/classes/
+/Topics/Thread synchronization/Two methods, two statements/out/
+/Topics/Thread synchronization/Two methods, two statements/out/production/classes/
+/Topics/Thread synchronization/What is incorrect about monitors/out/
+/Topics/Thread synchronization/What is incorrect about monitors/out/production/classes/
+/Topics/Thread synchronization/What is wrong/out/
+/Topics/Thread synchronization/What is wrong/out/production/classes/

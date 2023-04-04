@@ -1,0 +1,20 @@
+content:
+- Hierarchy of exceptions
+- Regexes in programs
+- Patterns and Matcher
+- Instance methods
+- Match results
+- Builder
+- Serialization basics
+- Primitive and reference types
+- Runtime type checking
+- LocalDate
+- LocalTime
+- LocalDateTime
+- Enumset
+- Command
+- Thread management
+- Abstract factory
+- ArrayList
+- Processing strings
+- Thread synchronization

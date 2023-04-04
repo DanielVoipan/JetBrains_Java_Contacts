@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Laptop factory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Phone factory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/What does the pattern do" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Creating list" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Find the nearest number" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/The behavior of methods" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/What ArrayList can store" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder (1)" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Describe the builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Disadvantage of Builder pattern" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Geek Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Subway Sandwich" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Command/Real-World examples" />
+            <option value="$PROJECT_DIR$/Topics/Command/Remote Controller" />
+            <option value="$PROJECT_DIR$/Topics/Command/Stock Broker" />
+            <option value="$PROJECT_DIR$/Topics/Command/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Basic job requirements" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/EnumSet" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Error" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Vaccination" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/BadRequestException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base class" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Unchecked exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/UncheckedException" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Car" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Circle" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Counter" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/In a box" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Instance method and its class" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Invoke instance method" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Simulating a clock" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/The Robot class" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/10 days before" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/2 weeks after" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Convert numbers to days" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Methods of LocalDate" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Similar date" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/The last day of a month" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Working with dates" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Add 11 hours and print the date" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Add days and subtract hours" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Merging date-time instances" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Same date and time" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Subtracting hours and adding minutes" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/LocalTime constants" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Millisecond precision" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Representing the same time" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Same time" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Seconds between two time points" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Seconds since start of a day" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Some hours and minutes ago" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Working with time" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Check the essay" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Extracting big numbers from a text" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Extracting words from a text" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Find all passwords" />
+            <option value="$PROJECT_DIR$/Topics/Match results/How many times it returns true" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Match results/What do we get" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Wrong move" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/E-mail address" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Find a word with a given length" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/In the middle of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Invoking matches and find" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Number parsing" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Start or end of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Why use Pattern and Matcher" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Code with nulls" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value (1)" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Find the first occurrence of the word  the" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Palindrome" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Parse url" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/The longest word" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Card name validation and identification" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check IP address" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check the clock time" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check the date" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Ignoring spaces" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Illegal identifiers" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Safe password" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Vehicle registration number" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/File equality" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Find a statement that returns false" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Hierarchy of classes" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Pattern matching in practice" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Select statements" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Three classes and two objects" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Who is who" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Container with transient fields" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Default serialization" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Methods of Serializable" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Preventing a field from serialization" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Serializable user" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Calculate the number of distinct characters" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Summing with threads" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/The order of lines" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/VeganPizza" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Waiting for a thread" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Countdown counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Method inside the synchronized block" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Multithreaded counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Thread-safe account" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Two methods, two statements" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/What is incorrect about monitors" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/What is wrong" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+content:
+- Theory
+- Methods of Serializable
+- Default serialization
+- Container with transient fields
+- Preventing a field from serialization
+- Serializable user
